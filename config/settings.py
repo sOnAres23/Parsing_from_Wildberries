@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
 
-
+    "wb_parser"  # connect our app
 ]
 
 MIDDLEWARE = [
